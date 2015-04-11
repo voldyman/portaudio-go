@@ -1,8 +1,9 @@
 package main
 
 import (
-	"code.google.com/p/portaudio-go/portaudio"
 	"time"
+
+	"github.com/voldyman/portaudio-go/portaudio"
 )
 
 func main() {

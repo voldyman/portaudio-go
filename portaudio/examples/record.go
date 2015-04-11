@@ -1,12 +1,13 @@
 package main
 
 import (
-	"code.google.com/p/portaudio-go/portaudio"
 	"encoding/binary"
 	"fmt"
 	"os"
 	"os/signal"
 	"strings"
+
+	"github.com/voldyman/portaudio-go/portaudio"
 )
 
 func main() {
